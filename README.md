@@ -16,4 +16,4 @@ This application was semi-automated.  It starts every application
 (except those that get executed as part of sanity testing and 
 were super low-risk), and the tester had to close the app so the
 next one would run automatically.  This way we were able to spot
-startup issues with a particular app before the produce was released.
+startup issues with a particular app before the product was released.
